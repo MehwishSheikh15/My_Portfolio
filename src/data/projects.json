@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Typescript", "Javascript", "Node"],
+      "demo": "https://www.npmjs.com/package/wi5h4-simple-calculator",
+      "source": "https://github.com/MehwishSheikh15/SIMPLE-CALCULATOR"
+    },
+    {
+      "title": "Personal Resume",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "Node"],
+      "demo": "https://mehwish-resume.vercel.app/",
+      "source": "https://github.com/MehwishSheikh15/mehwish-resume.git"
+    },
+    {
+      "title": "NextJs Hello",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "NextJS", "Node" , "Typescript"],
+      "demo": "https://next-mehwish-helloworld.vercel.app/",
+      "source": "https://github.com/MehwishSheikh15/next-helloworld.git"
+    }
+   
+  ]

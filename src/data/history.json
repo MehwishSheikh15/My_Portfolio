@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Sales and Marketing",
+      "organisation": "Advanced Digitizing",
+      "startDate": "Feb, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "UI Designer",
+      "organisation": "Microsoft",
+      "startDate": "Oct, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Windows 11"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Frontened Developer",
+      "organisation": "Giaic",
+      "startDate": "Feb, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/giaicLogo.png"
+    }
+  ]
